@@ -1,0 +1,7 @@
+Inteligência Artificial é uma área da computação que busca criar sistemas capazes de simular a inteligência humana.
+
+Redes neurais artificiais são modelos computacionais inspirados no funcionamento do cérebro humano.
+
+Machine Learning é uma subárea da Inteligência Artificial focada em aprendizado a partir de dados.
+
+Deep Learning utiliza múltiplas camadas de redes neurais para resolver problemas complexos.
